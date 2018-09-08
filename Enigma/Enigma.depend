@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1536363279 source:e:\jg\c-c++\codes\algorithms\cryptography\enigma\main.cpp
+	"Cipher.hpp"
+
+1536361134 e:\jg\c-c++\codes\algorithms\cryptography\enigma\cipher.hpp
+	<iostream>
+	<string>
+	<exception>
+
+1536342512 e:\jg\c-c++\codes\algorithms\cryptography\enigma\tools.hpp
+	<iostream>
+	<string>
+	<exception>
+
+1536364224 source:e:\jg\c-c++\codes\algorithms\cryptography\enigma\cipher.cpp
+	"Cipher.hpp"
+
